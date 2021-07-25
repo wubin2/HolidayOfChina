@@ -1,5 +1,5 @@
 # HolidayOfChina
-Holiday Of China API
+Holiday Of China API, [Example](https://api.coolsong.com/today.php).
 
 ### GET dayInfo
 URL
