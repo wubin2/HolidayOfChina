@@ -1,6 +1,6 @@
 # HolidayOfChina
 Holiday Of China API, [Example](https://api.coolsong.com/today.php). 
-Updated 2023 holidays.
+Updated 2024 holidays.
 
 ### GET dayInfo
 URL
